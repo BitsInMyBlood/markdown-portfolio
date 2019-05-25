@@ -1,0 +1,1 @@
+The technologies I have experience with include computer networking, object oriented programming, __Android development__, __web development__ (LAMP), systems administration, virtualization technologies, REACTjs, bootstrap, _Wordpress_, *Woo-commerce*. I am constantly learning about and using new technologies, tools, frameworks, and development strategies. 
