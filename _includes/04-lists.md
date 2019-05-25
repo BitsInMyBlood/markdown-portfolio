@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Certifications Obtained
+  * Oracle Java SE 7 certified Programmer
+  * CIW
+    * Perl Specialist
+    * Database Specialist
+    * Web Development Specialist
+  * Comptia
+    * Security+
+    * Project+
