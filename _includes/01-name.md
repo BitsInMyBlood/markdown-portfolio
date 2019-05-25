@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Christian Gentry
+## Technology Consultant
+## Developer
+### Oracle Certified Java Programmer
+### Full Stack web developer
