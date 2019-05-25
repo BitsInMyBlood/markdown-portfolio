@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Github Profile](https://bithub.com/bitsinmyblood)
+
+[ThisBit . net](http://www.thisbit.net)
